@@ -16,11 +16,4 @@ while(i<s.length() && j<t.length())
 return i==s.length();
 
     }
-    public static void main (String[]args)
-    {
-    	String a="abc";
-    	String b="asbsce";
-    	System.out.println(a,b);
-
-    } 
-    }
+   }
